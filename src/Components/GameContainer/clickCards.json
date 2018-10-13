@@ -1,0 +1,26 @@
+[
+{
+    "color": "Red",
+    "clicked":false
+},
+{
+    "color": "Blue",
+    "clicked":false
+},
+{
+    "color": "Green",
+    "clicked":false
+},
+{
+    "color": "Yellow",
+    "clicked":false
+},
+{
+    "color": "Black",
+    "clicked":false
+},
+{
+    "color": "White",
+    "clicked":false
+}
+]
